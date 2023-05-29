@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🗄️⚖️🔀️ The homepage of the REAL Data Liberation Front, promoting data openness, longer takeout times, open takoeut formats, better compliance, and more.
